@@ -8,3 +8,7 @@
 - Семинары
 
 ---
+
+## SmartQala
+
+![Logo](sq_logo_named.png)
