@@ -1,4 +1,4 @@
-# Новости Softrack
+## Новости Softrack
 
 - SmartQala
 - Планы
