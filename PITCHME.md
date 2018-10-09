@@ -13,6 +13,8 @@
 - Айдар Junior Java Developer
 - Тимур Intern Java Developer
 
+---
+
 ## SmartQala
 
 ![Logo](sq_logo_named.png)
