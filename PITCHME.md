@@ -1,7 +1,8 @@
-## Новости Softrack
 @transition[none]
 
 @snap[west]
+## Новости Softrack
+
 - Новенькие
 - Allpay, SQ
 - Планы. Задачи
