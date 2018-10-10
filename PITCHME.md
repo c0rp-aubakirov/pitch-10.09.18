@@ -1,6 +1,6 @@
 ## Новости Softrack
 
-@snap[west sidebar]
+@snap[west]
 - Новенькие
 - Allpay, SQ
 - Планы. Задачи
