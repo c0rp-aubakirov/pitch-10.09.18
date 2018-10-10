@@ -1,5 +1,6 @@
 # Layout
 layout : center
+theme : black
 
 # Behavior
 transition : none
