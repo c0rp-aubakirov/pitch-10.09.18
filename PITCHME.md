@@ -1,13 +1,11 @@
 ## Новости Softrack
 
 @snap[west sidebar]
-
 - Новенькие
 - Allpay, SQ
 - Планы. Задачи
 - Что происходит
 - Семинары
-
 @snapend
 
 ---
